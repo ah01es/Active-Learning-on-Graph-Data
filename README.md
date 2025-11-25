@@ -1,5 +1,20 @@
 # Active Learning on Graph Data: Enhanced Clustering on Cora Dataset Using AlphaMixSampling
 
+---
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Parameters](#parameters)
+- [Results](#results)
+- [Original Repository](#original-repository)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
 ## Introduction
 
 Active learning reduces the need for large labeled datasets by selecting the most informative samples for labeling. This project applies the AlphaMixSampling strategy, which mixes features to enhance active learning, on graph-structured data using the Cora dataset. The method improves clustering performance with fewer labeled samples.
